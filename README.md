@@ -1,4 +1,4 @@
-# Pattern
+# EX 03 Pattern
 
 ## Aim:
 To write a C# program for a pascal's triangle.
