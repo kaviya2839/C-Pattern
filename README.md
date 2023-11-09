@@ -3,9 +3,11 @@
 ## Aim:
 To write a C# program for a pascal's triangle.
 
+
 ## Equipment Required:
 Hardware:pc
 software:Visual Studio.
+
 
 ## Algorithm:
 Step 1: Start the program.
@@ -15,6 +17,7 @@ Step 2: Create a class and declare two variables rows,Val using integer datatype
 Step 3: Using nested for loop create a pascal's triangle.
 
 Step 4: Stop the execution.
+
 
 ## Program:
 ```
